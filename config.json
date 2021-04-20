@@ -1,0 +1,15 @@
+{
+  "token": "Nzc0NzAxNjY0NjczNTk1NDQz.X6bnJg.CL4ACE8S4sJQWPaoZzlQSpPrj7A",
+  "ownerId": "722893072580476978",
+  "bugReportChannelId": "833397065890660363",
+  "feedbackChannelId": "833397158496567317",
+  "YOUTUBE_API_KEY": "AIzaSyBnJuiuWj2F11O-IAQYUIJhOFSRGlI12hI",
+  "SOUNDCLOUD_CLIENT_ID": "dmDh7QSlmGpzH9qQoH1YExYCGcyYeYYC",
+  "serverLogId": "824633818443022336",
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100,
+  "apiKeys": {
+    "catApi": "your_API_key_here",
+    "googleApi": "AIzaSyBnJuiuWj2F11O-IAQYUIJhOFSRGlI12hI"
+  }
+}
